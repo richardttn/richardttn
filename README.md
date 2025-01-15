@@ -7,7 +7,7 @@
 - Build Useful Software
 - Command Line Tools
 - Linux and Servers
-- Art. I love Art.
+- Art...I like Art.
 
 ## 🌱 I’m currently Working with
 - PHP/Laravel
@@ -23,6 +23,6 @@
 - He/Him
 
 ## ⚡ Fun fact
-- I love Art, poetry, music and cold days.
+- I like Art...poetry, music and cold days.
 
 
