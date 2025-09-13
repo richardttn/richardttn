@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=richardttn&color=blue)
 
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardttn&show_icons=true&theme=dracula&count_private=false)
+
 ## 👀 I’m interested in
 - Full-Stack Web and Mobile Development
 - Build Useful Software
